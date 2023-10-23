@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AminDouiri99
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in React / SpringBoot
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me medamine.douiri@esprit.tn or https://aminedouiripotfolio.vercel.app/
